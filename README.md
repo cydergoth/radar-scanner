@@ -11,6 +11,8 @@ Gives the sector scanner in the bottom left corner of the flight view an old-sch
 - **A radar screen**: a dark green tint, two range rings, a crosshair and bearing ticks round the
   rim.
 
+![The scanner with the radar overlay: the scan line and its afterglow, range rings, and ripples around a ship and the stations it has just passed](docs/radar-scanner.png)
+
 The mod only draws over the scanner. The game's own icons, labels, zoom buttons and scanner range
 are unchanged, and it detects nothing the game doesn't: a ripple appears only around something
 the game already shows on the scanner. It changes nothing in your save.
